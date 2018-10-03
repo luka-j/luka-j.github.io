@@ -493,6 +493,16 @@ iframe {
 .credits .btn {
   margin-bottom: 15px;
 }
+
+.activities .title {
+  font-weight: bold;
+}
+.activities .title .type {
+    font-style: italic;
+}
+.activities .title .role, .activities .title .year {
+    font-weight: normal;
+}
 /* ======= Footer ======= */
 .footer {
   background: #32383e;
